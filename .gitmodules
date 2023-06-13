@@ -1,3 +1,18 @@
 [submodule "IF2110_Tugas-Besar-K2-A"]
 	path = IF2110_Tugas-Besar-K2-A
 	url = https://github.com/Gulilil/IF2110_Tugas-Besar-K2-A.git
+[submodule "IF2123_Algeo01_21116"]
+	path = IF2123_Algeo01_21116
+	url = https://github.com/Gulilil/IF2123_Algeo01_21116.git
+[submodule "IF2123_Algeo02-21052"]
+	path = IF2123_Algeo02-21052
+	url = https://github.com/Gulilil/IF2123_Algeo02-21052.git
+[submodule "IF2124_TugasBesar_ParserNodeJs"]
+	path = IF2124_TugasBesar_ParserNodeJs
+	url = https://github.com/Gulilil/IF2124_TugasBesar_ParserNodeJs.git
+[submodule "IF2121_Tubes-Logkom"]
+	path = IF2121_Tubes-Logkom
+	url = https://github.com/Gulilil/IF2121_Tubes-Logkom.git
+[submodule "IF2110_PrakAlstrukdat"]
+	path = IF2110_PrakAlstrukdat
+	url = https://github.com/Gulilil/IF2110_PrakAlstrukdat.git
