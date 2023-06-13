@@ -16,3 +16,9 @@
 [submodule "IF2110_PrakAlstrukdat"]
 	path = IF2110_PrakAlstrukdat
 	url = https://github.com/Gulilil/IF2110_PrakAlstrukdat.git
+[submodule "IF2130_PrakOrkom"]
+	path = IF2130_PrakOrkom
+	url = https://github.com/Gulilil/IF2130_PrakOrkom.git
+[submodule "IF2121_PrakLogkom"]
+	path = IF2121_PrakLogkom
+	url = https://github.com/Gulilil/IF2121_PrakLogkom.git
